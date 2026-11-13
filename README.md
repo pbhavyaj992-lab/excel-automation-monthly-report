@@ -68,3 +68,9 @@ The log tells you what was removed and why. Nothing is deleted silently.
 Any service business that keeps bookings in Excel. Car care, salons, clinics, shops. Same story everywhere. Messy sheet in, clean report out.
 
 If your sheet has different columns or different service names, I can change the script for your file. The idea stays the same.
+
+## What I would do differently
+
+- The sample is only 25 rows. Next time I would test the script on a larger, real file (hundreds of rows, several months) to prove it holds up beyond the demo.
+- The service-name mapping is written for this one file. I would make it configurable, a small mapping table the user can edit, so a new service name does not need a code change.
+- The output is CSV. I would also write a formatted `.xlsx` version of the monthly report, with the same totals, so the client can open it and use it without reformatting.
