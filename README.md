@@ -65,6 +65,6 @@ The log tells you what was removed and why. Nothing is deleted silently.
 
 ## What this is good for
 
-Any small business that keeps bookings in Excel. Car care, salons, clinics, shops. Same story everywhere. Messy sheet in, clean report out.
+Any service business that keeps bookings in Excel. Car care, salons, clinics, shops. Same story everywhere. Messy sheet in, clean report out.
 
 If your sheet has different columns or different service names, I can change the script for your file. The idea stays the same.
