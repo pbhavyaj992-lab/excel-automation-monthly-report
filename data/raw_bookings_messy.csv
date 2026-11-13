@@ -1,0 +1,26 @@
+Date,Customer,Phone,Service,Amount,Payment_Mode
+02/10/2026,Aarav Patel,98765 43210,Ceramic Coating,"₹12,500",Cash
+2026-10-03,Meera Shah,9825012345,ceramic coating,12500,cash
+03/10/2026,Rohit Desai,,Car Wash,499,UPI
+04/10/2026,Kiran Patel,9723456789,Interior Detailing,"₹3,499",Card
+2026-10-05,Priya Nair,9898011223,Exterior Polish,1999,upi
+05/10/2026,Amit Verma,9725012345,Ceramic coat,12500,CASH
+2026-10-06,Sneha Joshi,9876543210,Car wash,499,card
+04/10/2026,Kiran Patel,9723456789,Interior Detailing,"₹3,499",Card
+07/10/2026,Vikram Singh,9825512345,Paint Protection Film,"₹25,000",UPI
+2026-10-08,Anjali Mehta,,ceramic coating,12000,Cash
+08/10/2026,Rahul Gupta,9876543210,Car Wash,,UPI
+09/10/2026,Nisha Patel,9723456789,Interior Detaling,"₹3,499",cash
+2026-10-10,Harsh Patel,9825012345,Exterior polish,"1,999",Card
+10/10/2026,Aarav Patel,98765 43210,Ceramic Coating,"₹12,500",Cash
+11/10/2026,Meera Shah,9825012345,car wash,499,UPI
+2026-10-12,Rohit Desai,9876543210,Interior Detailing,3499,CARD
+12/10/2026,Kiran Patel,9723456789,Ceramic Coating,12500,upi
+13/10/2026,Sneha Joshi,,Paint protection film,"₹25,000",cash
+2026-10-14,Vikram Singh,9825512345,Car Wash,499,cash
+14/10/2026,Priya Nair,9898011223,Ceramic coat,,Card
+15/10/2026,Amit Verma,9725012345,Interior Detailing,"₹3,499",UPI
+2026-10-16,Anjali Mehta,9876543210,Exterior Polish,1999,UPI
+04/10/2026,Kiran Patel,9723456789,Interior Detailing,"₹3,499",Card
+16/10/2026,Rahul Gupta,9876543210,Car wash,,Cash
+2026-10-17,Nisha Patel,9723456789,Ceramic Coating,"12,500",Cash

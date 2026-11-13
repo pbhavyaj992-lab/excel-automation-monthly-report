@@ -1,0 +1,24 @@
+Shree Car Care, Anand - cleaning log
+Sample data only.
+
+Rows in raw file: 25
+Exact duplicate rows removed: 2
+Dropped - no amount: 08/10/2026 Rahul Gupta - Car Wash
+Dropped - no amount: 14/10/2026 Priya Nair - Ceramic coat
+Dropped - no amount: 16/10/2026 Rahul Gupta - Car wash
+Rows dropped - blank amount: 3
+Rows with missing phone (kept): 3
+Rows in clean file: 20
+Total amount in clean file: Rs 158,989.00
+
+Bookings by service:
+  Car Wash: 4 bookings, Rs 1,996.00
+  Ceramic Coating: 7 bookings, Rs 87,000.00
+  Exterior Polish: 3 bookings, Rs 5,997.00
+  Interior Detailing: 4 bookings, Rs 13,996.00
+  Paint Protection Film: 2 bookings, Rs 50,000.00
+
+Bookings by payment mode:
+  Card: 4
+  Cash: 9
+  UPI: 7
